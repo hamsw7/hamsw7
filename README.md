@@ -1,9 +1,11 @@
 <!-- README.md for @hamsw7 (Hamoodi) -->
-<h1 align="center" style="background: linear-gradient(135deg, #4c1d95, #ec4899, #22d3ee); padding: 35px; border-radius: 20px; color: #fff; box-shadow: 0 8px 20px rgba(0,0,0,0.5); border: 3px solid #facc15;">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&weight=700&pause=600&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=Yo,+World!+⚡;I’m+Hamoodi,+Code+Maestro!;Crafting+Masterworks+Daily!" alt="Typing SVG" />
-</h1>
+<div align="center" style="background: linear-gradient(135deg, #4c1d95, #ec4899, #22d3ee); padding: 35px; border-radius: 20px; color: #fff; box-shadow: 0 8px 20px rgba(0,0,0,0.5); border: 3px solid #facc15; margin-bottom: 20px;">
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&weight=700&pause=600&color=FFFFFF¢er=true&vCenter=true&width=700&height=90&lines=Yo,+World!+⚡;I’m+Hamoodi,+Code+Maestro!;Crafting+Masterworks+Daily!" alt="Typing SVG" />
+  </h1>
+</div>
 
-<h3 align="center" style="color: #ec4899; font-family: 'Courier New', monospace; text-shadow: 0 2px 8px rgba(0,0,0,0.4); letter-spacing: 1px;">
+<h3 align="center" style="color: #facc15; font-family: 'Courier New', monospace; text-shadow: 0 2px 8px rgba(0,0,0,0.4); letter-spacing: 1px; margin-bottom: 20px;">
   A Code Artisan Elevating Bytes to Brilliance
 </h3>
 
@@ -14,7 +16,7 @@
   <a href="mailto:abdulhamidali135@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img align="right" alt="Code Vibe" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); border: 2px solid #22d3ee;" />
+<img align="right" alt="Code Vibe" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); border: 2px solid #22d3ee; margin: 20px;" />
 
 ---
 
