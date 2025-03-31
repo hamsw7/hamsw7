@@ -55,7 +55,7 @@
 
 ### 📈 GitHub Stats & Snake
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamsw7&show_icons=true&theme=radical&hide_border=true" alt="Hamoodi's Stats" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamsw7&show_icons=true&theme=yeblu&hide_border=true" alt="Hamoodi's Stats" style="margin: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsw7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="margin: 10px;" />
 </p>
 <p align="center">
