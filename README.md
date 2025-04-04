@@ -1,7 +1,7 @@
-<!-- README.md for @hamsw7 (Hamoodi) -->
+<!-- README.md for @hamsw7 (Abdulhamid Nuredin) -->
 <div align="center" style="background: linear-gradient(135deg, #4c1d95, #ec4899, #22d3ee); padding: 35px; border-radius: 20px; color: #fff; box-shadow: 0 8px 20px rgba(0,0,0,0.5); border: 3px solid #facc15; margin-bottom: 20px;">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&weight=700&pause=600&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=Yo,+World!+⚡;I’m+Hamoodi,+Code+Maestro!;Crafting+Masterworks+Daily!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&weight=700&pause=600&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines= Hello +World!+⚡;I’m+Abdulhamid Nuredin,+Code+Maestro!;Crafting+Masterworks+Daily!" alt="Typing SVG" />
   </h1>
 </div>
 
@@ -55,7 +55,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamsw7&show_icons=true&theme=yeblu&hide_border=true" alt="Hamoodi's Stats" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamsw7&show_icons=true&theme=yeblu&hide_border=true" alt="Abdulhamid's Stats" style="margin: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsw7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="margin: 10px;" />
 </p>
 <p align="center">
@@ -71,7 +71,7 @@
 ---
 
 <p align="center" style="font-family: 'Courier New', monospace; color: #94a3b8; margin-top: 20px; letter-spacing: 0.5px;">
-  From lines to legacy—Hamoodi’s crafting a timeless tale!
+  From lines to legacy—Abdulhamid’s crafting a timeless tale!
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer Wave" />
