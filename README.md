@@ -2,7 +2,7 @@
 <div align="center" style="background: linear-gradient(135deg, #4c1d95, #ec4899, #22d3ee); padding: 35px; border-radius: 20px; color: #fff; box-shadow: 0 8px 20px rgba(0,0,0,0.5); border: 3px solid #facc15; margin-bottom: 20px;">
   <h1>
    <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&weight=700&pause=800&color=00FFAA&center=true&vCenter=true&width=1000&height=90&lines=Hello+World!;This+is+ABDULHAMID+NUREDIN%2C+your+favorite+programmer.;Focused+on+delivering+real-world+solutions+through+code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&weight=700&pause=800&color=00FFAA&center=true&vCenter=true&width=1000&height=90&lines=Hello+World!;This+is+Abdulhamid+Nuredin%2C+your+favorite+programmer.;Focused+on+delivering+real-world+solutions+through+code!" alt="Typing SVG" />
 </p>
   </h1>
 </div>
